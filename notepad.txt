@@ -1,0 +1,3 @@
+At the beginning, I created a project for the phone and computer screen.
+
+Next, I started to create structure of HTML using BEM.
